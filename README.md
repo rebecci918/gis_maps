@@ -17,4 +17,4 @@ watershed_lab: Made in GIS 2. In this lab I processed DEMs using a variety of Ac
 
 lab5: Made in GIS 1. The purpose of this lab was to show estimations of sea level rise using a DEM processing including raster calculator. 
 
-income, median income, and employment debate maps: The goal of this lab was to create maps that argued your point for a class debate about the diversity of Maine using U.S. cenus data. I was on the side agruing that Maine is not diverse. 
+income, median income, and employment debate maps: Made in GIS 2The goal of this lab was to create maps that argued your point for a class debate about the diversity of Maine using U.S. cenus data. I was on the side agruing that Maine is not diverse. 
