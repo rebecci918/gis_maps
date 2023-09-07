@@ -16,3 +16,5 @@ lab6: Made in GIS 2. For this lab I created a graphical modeler to process large
 watershed_lab: Made in GIS 2. In this lab I processed DEMs using a variety of AcrPro tools including sink, flow direction, and flow accumulation to delineate the Saco River Watershed. 
 
 lab5: Made in GIS 1. The purpose of this lab was to show estimations of sea level rise using a DEM. 
+
+income, median income, and employment debate maps: The goal of this lab was to create maps that argued your point for a class debate about the diversity of Maine using U.S. cenus data. I was on the side agruing that Maine is not diverse. 
