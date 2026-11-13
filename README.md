@@ -7,7 +7,7 @@ drone_lab: Made in GIS 2. For this lab I collected drone imagery -- I chose a sa
 
 gisII_poster: This poster was my partner and I's final project for GIS 2. We used the Arc GIS Empirical Bayesian Kriging Tool to interpolate ice thickness in the Canadian Artic. 
 
-gnsslab: Made in GIS 2. For this lab we used Emlid GNSS units to practice logging high accuracy data. My group did four surveys: static PPP, kinematic PPP, PPK and RTK. We set up our own base stationa and processed our data using Emlid Studio and the Canadian Spatial Reference System PPP online application. 
+gnsslab: Made in GIS 2. For this lab we used Emlid GNSS units to practice logging high accuracy data. My group did four surveys: static PPP, kinematic PPP, PPK and RTK. We processed our data using Emlid Studio and the Canadian Spatial Reference System PPP online application. 
 
 lab1: Made in GIS 2. The purpose of this lab was to learn how to georectify aerial imagery using the QGIS georeferencing tool. 
 
